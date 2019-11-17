@@ -100,5 +100,8 @@ public class FirstSeleniumTests {
                 driver.close();
             }
     }
-    
+
+    @Test
+    public void VerifyIfGitWorks(){}
+
 }
