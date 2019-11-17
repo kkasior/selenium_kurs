@@ -79,6 +79,9 @@ public class FirstSeleniumTests {
     }
 
     @Test
+    public void VerifyIfGitWorks(){}
+
+    @Test
     public void continueWithoutError()
     {
         driver.get("https://dev.to");
@@ -102,6 +105,16 @@ public class FirstSeleniumTests {
     }
 
     @Test
-    public void VerifyIfGitWorks(){}
+    public void Wykop()
+    {
+        driver.get("http://wykop.pl");
+        WebElement element = driver.findElement(By.xpath("//a[contains (@title, 'Znaleziska dodane')]"));
+        HighlightElement(driver, element);
+        /*element.click();
+        String titleOfThePage = driver.getTitle();
+        String expectedTitle = "Wykopalisko - Wykop.pl";
+        assertThat(titleOfThePage).isEqualTo(expectedTitle);*/
 
+        //nazwa_znacznika[contains (@ atrybut,'wartosc_atrybutu')]
+    }
 }

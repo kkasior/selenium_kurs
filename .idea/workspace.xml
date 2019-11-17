@@ -41,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FirstSeleniumTests.VerifyPracujPl">
+  <component name="RunManager" selected="JUnit.FirstSeleniumTests.Wykop">
     <configuration name="FirstSeleniumTests.ClickOnElementIfListIsBiggerThatZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kurssdasda" />
       <extension name="coverage">
@@ -74,6 +74,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FirstSeleniumTests.Wykop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kurssdasda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sda.selenium.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sda.selenium.first" />
+      <option name="MAIN_CLASS_NAME" value="sda.selenium.first.FirstSeleniumTests" />
+      <option name="METHOD_NAME" value="Wykop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FirstSeleniumTests.continueWithoutError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kurssdasda" />
       <extension name="coverage">
@@ -85,22 +101,6 @@
       <option name="PACKAGE_NAME" value="sda.selenium.first" />
       <option name="MAIN_CLASS_NAME" value="sda.selenium.first.FirstSeleniumTests" />
       <option name="METHOD_NAME" value="continueWithoutError" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstSeleniumTests.findingElementsOnDevTo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kurssdasda" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sda.selenium.first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="sda.selenium.first" />
-      <option name="MAIN_CLASS_NAME" value="sda.selenium.first.FirstSeleniumTests" />
-      <option name="METHOD_NAME" value="findingElementsOnDevTo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FirstSeleniumTests.Wykop" />
         <item itemvalue="JUnit.FirstSeleniumTests.VerifyPracujPl" />
         <item itemvalue="JUnit.FirstSeleniumTests.ClickOnElementIfListIsBiggerThatZero" />
         <item itemvalue="JUnit.FirstSeleniumTests.continueWithoutError" />
         <item itemvalue="JUnit.FirstSeleniumTests.findingMultipleElementOnDevTo" />
-        <item itemvalue="JUnit.FirstSeleniumTests.findingElementsOnDevTo" />
       </list>
     </recent_temporary>
   </component>
