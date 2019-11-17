@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cff874f3-9371-4add-8c1b-225fb7c111ca" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1SmoX4ErkxTtkGeIJw30TUYyw8N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="sda.bdd.testing.first.smoothie" />
+      <recent name="sda.bdd.testing.first.calculator" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FirstSeleniumTests.VerifyPracujPl">
+    <configuration name="FirstSeleniumTests.ClickOnElementIfListIsBiggerThatZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kurssdasda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sda.selenium.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sda.selenium.first" />
+      <option name="MAIN_CLASS_NAME" value="sda.selenium.first.FirstSeleniumTests" />
+      <option name="METHOD_NAME" value="ClickOnElementIfListIsBiggerThatZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstSeleniumTests.VerifyPracujPl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kurssdasda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sda.selenium.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sda.selenium.first" />
+      <option name="MAIN_CLASS_NAME" value="sda.selenium.first.FirstSeleniumTests" />
+      <option name="METHOD_NAME" value="VerifyPracujPl" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstSeleniumTests.continueWithoutError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kurssdasda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sda.selenium.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sda.selenium.first" />
+      <option name="MAIN_CLASS_NAME" value="sda.selenium.first.FirstSeleniumTests" />
+      <option name="METHOD_NAME" value="continueWithoutError" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstSeleniumTests.findingElementsOnDevTo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kurssdasda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sda.selenium.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sda.selenium.first" />
+      <option name="MAIN_CLASS_NAME" value="sda.selenium.first.FirstSeleniumTests" />
+      <option name="METHOD_NAME" value="findingElementsOnDevTo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstSeleniumTests.findingMultipleElementOnDevTo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kurssdasda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sda.selenium.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sda.selenium.first" />
+      <option name="MAIN_CLASS_NAME" value="sda.selenium.first.FirstSeleniumTests" />
+      <option name="METHOD_NAME" value="findingMultipleElementOnDevTo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FirstSeleniumTests.VerifyPracujPl" />
+        <item itemvalue="JUnit.FirstSeleniumTests.ClickOnElementIfListIsBiggerThatZero" />
+        <item itemvalue="JUnit.FirstSeleniumTests.continueWithoutError" />
+        <item itemvalue="JUnit.FirstSeleniumTests.findingMultipleElementOnDevTo" />
+        <item itemvalue="JUnit.FirstSeleniumTests.findingElementsOnDevTo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cff874f3-9371-4add-8c1b-225fb7c111ca" name="Default Changelist" comment="" />
+      <created>1572178167967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572178167967</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/sda/bdd/testing/first/CalculatorStepDefinitions.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/sda/selenium/first/FirstSeleniumTests.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
